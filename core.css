@@ -3,8 +3,6 @@
 	margin:0;
 }
 
-#content .background-red {
-	background: red;
-	width: 20px;
-	height: 20px;
+#content #canvas {
+	border: 1px double #0A0A0A;
 }
